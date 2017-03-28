@@ -262,3 +262,6 @@ __pycache__/
 
 # ignore a single file
 appsettings.json
+
+# ignore a single file
+appsettings.Development.json
